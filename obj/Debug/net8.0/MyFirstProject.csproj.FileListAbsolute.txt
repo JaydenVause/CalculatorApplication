@@ -1,0 +1,14 @@
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\bin\Debug\net8.0\MyFirstProject.exe
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\bin\Debug\net8.0\MyFirstProject.deps.json
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\bin\Debug\net8.0\MyFirstProject.runtimeconfig.json
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\bin\Debug\net8.0\MyFirstProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\bin\Debug\net8.0\MyFirstProject.pdb
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\refint\MyFirstProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.pdb
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# in a nutshell\MyFirstProject\obj\Debug\net8.0\ref\MyFirstProject.dll
